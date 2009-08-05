@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/81/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins
+END
+ColorTween.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/111/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins/ColorTween.as
+END
+AbstractTween.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/89/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins/AbstractTween.as
+END
+MatrixTween.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/111/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins/MatrixTween.as
+END
+DisplayTween.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/111/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins/DisplayTween.as
+END
+FilterTween.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/111/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins/FilterTween.as
+END
+ObjectTween.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/89/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins/ObjectTween.as
+END
+TweensyPluginList.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/89/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins/TweensyPluginList.as
+END
+MovieClipTween.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/111/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins/MovieClipTween.as
+END
+SoundTween.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/111/trunk/releases/source/cs3/original/com/flashdynamix/motion/plugins/SoundTween.as
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/trunk/releases/source/cs3/original/com/flashdynamix/motion/easing
+END
+CustomEasing.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/17/trunk/releases/source/cs3/original/com/flashdynamix/motion/easing/CustomEasing.as
+END
+BackEaseParams.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/17/trunk/releases/source/cs3/original/com/flashdynamix/motion/easing/BackEaseParams.as
+END
+ElasticEaseParams.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/17/trunk/releases/source/cs3/original/com/flashdynamix/motion/easing/ElasticEaseParams.as
+END

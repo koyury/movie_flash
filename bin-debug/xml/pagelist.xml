@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<data>
+	<page bg="178Q0270.jpg" caption="CAPTION">
+		<contents title="TITLE">
+			<content subtitle="SUBTITLE">HOGEHOGE</content>
+			<content>FUGA</content>
+		</contents>
+	</page>
+
+	<page bg="178Q0287.jpg" caption="setsumeibun">
+		<contents title="hontonotitle">
+			<content subtitle="subtitle!">hoge</content>
+			<content>fuga</content>
+		</contents>
+	</page>
+</data>
